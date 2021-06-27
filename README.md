@@ -16,3 +16,5 @@ Features
 Note
 --------
 The generated emission map will be generated and saved wherever the program is stored.
+
+![emissionMapGen](/Screenshot/img.png?raw=true "Emission Map Generator")
