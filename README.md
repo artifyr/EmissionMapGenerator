@@ -19,4 +19,4 @@ The generated emission map will be generated and saved wherever the program is s
 
 Screenshot
 --------
-![emissionMapGen](/Screenshot/img.png?raw=true "Emission Map Generator")
+![emissionMapGen](/Screenshot/emmap.jpg?raw=true "Emission Map Generator")
